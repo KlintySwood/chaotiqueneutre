@@ -5,5 +5,4 @@ title = 'Test Image'
 +++
 
 ## Test Image
-
-![No Man Sky](/static/images/nomansky.jpg)
+![No Man Sky](./assets/images/nomansky.jpg)
